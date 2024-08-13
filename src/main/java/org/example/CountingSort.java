@@ -1,2 +1,4 @@
-package org.example;public class CountingSort {
+package org.example;
+
+public class CountingSort {
 }

@@ -1,2 +1,4 @@
-package org.example;public class SearchPattern {
+package org.example;
+
+public class SearchPattern {
 }
